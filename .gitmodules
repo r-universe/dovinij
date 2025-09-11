@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GPflexViz"]
+	path = GPflexViz
+	url = https://github.com/dovinij/gpflexviz
 [submodule "GxEprs"]
 	path = GxEprs
 	url = https://github.com/dovinij/gxeprs
+[submodule "iPRSue"]
+	path = iPRSue
+	url = https://github.com/dovinij/iprsue
